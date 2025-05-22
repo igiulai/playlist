@@ -1,0 +1,49 @@
+/* .playlistInfoPage {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+} */
+
+.playlistInfoPage h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: bisque;
+}
+
+.playlistInfoPage h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: aqua;
+}
+
+.playlistInfoPage p {
+    font-size: 16px;
+    color: cornflowerblue;
+    margin-bottom: 15px;
+}
+
+.playlistInfoPage ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.playlistInfoPage ul li {
+    font-size: 14px;
+    color: aqua;
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.playlistInfoPage ul li:last-child {
+    border-bottom: none;
+}
+
+.playlistInfoPage a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.playlistInfoPage a:hover {
+    text-decoration: underline;
+}
